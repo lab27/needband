@@ -3,9 +3,15 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="{{section}}">
 
-
+		<header>
+        <img src="/static/img/zrh-guitar.svg" alt="">
+				<h1>
+          {{ metadata.title }}
+        </h1>
+			{# {% include "components/nav.njk" %} #}
+		</header>
 
 		<main>
 			{{ layoutContent | safe }}
