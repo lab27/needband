@@ -6,15 +6,19 @@
 	<body class="{{section}}">
 
 		<header>
-        <img src="/static/img/zrh-guitar.svg" alt="">
+        <a href="/"><img src="/static/img/zrh-guitar.svg" alt=""></a>
 				<h1>
-          {{ metadata.title }}
+          {{ title }}
         </h1>
-			{# {% include "components/nav.njk" %} #}
 		</header>
 
 		<main>
 			{{ layoutContent | safe }}
+      {% if section === 'songs' %}
+        <div class="backlink">
+          <a href="/">&laquo;back</a>
+        </div>
+      {% endif %}
 		</main>
 
 		{% include "components/footer.njk" %}

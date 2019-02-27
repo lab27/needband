@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Zürich, I need a band.
+title: Hey Zürich, I need a band.
 tags:
   - nav
 navtitle: Home
@@ -9,20 +9,38 @@ date: 2018-01-01
 permalink: /
 ---
 ### Who am I?
-I'm an American musician from California & New York City. Been living in Zürich for about 10 years. I sing, play some instruments and write songs. I'm looking to put together a small live act. 
+I'm a Californian living in Zürich for about 10 years. I sing, play some instruments and write songs. I'm looking to put together a small live act.
 
-### Who am I looking for? 
+### Who are you? 
+- A Lead Guitarist
+- A Drummer
+- A Keyboard Player
+- A Bass Guitarist
+- A Singer
 
-### What do I like?
+### Who do I like?
 - Bowie
 - Cocteau Twins
 - Slowdive
+- Lush
+- Nina Simone
+- Arvo Pärt
+- T. Rex
+- Ligety
+- The Everly Brothers
+- Joan Redpath
 - Depeche Mode
 - The Smiths
 - The Cure
 - Duran Duran
 - Lee Hazlewood
-- More
 
-### Sound interesting?
-If this sounds like you're thing, and you live in the Zürich area and you have some time, get in touch using this form. 
+### What do I sound like?
+Here are a few demo tracks to get a sense of my sound:
+- [Autumn Wind &#9835;](songs/autumn.html)
+- [Crinoline &#9835;](songs/crinoline.html)
+- [Zsa Zsa Baby &#9835;](songs/zsazsa.html)
+- [The Majordomo &#9835;](songs/majordomo.html)
+
+### Interested?
+If this sounds like your kinda thing and you live in the Zürich area and you have some time, get in touch using this form. 
