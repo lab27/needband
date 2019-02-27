@@ -188,7 +188,7 @@ form {
 }
 
 form label {
-  display: none;
+  /* display: none; */
 }
 
 input,
